@@ -1,0 +1,147 @@
+ body {
+   margin: 0px;
+ }
+
+ h1 {
+   font-size: 80px;
+ }
+ ul{
+  list-style: none;
+  padding: 0;
+ }
+ .welcome {
+   height: 100vh;
+   width: 100%;
+   background-image: url(..//pics/Edit+\(1+of+1\)-3.webp);
+   color: white;
+   text-align: center;
+  overflow: hidden;
+ }
+.caption{
+  margin-top: 200px;
+}
+ .welcome button {
+   background-color: transparent;
+   color: white;
+   border: 2px white solid;
+   border-radius: 5px;
+   padding: 10px;
+ }
+
+ .whowr {
+   width: 100%;
+   margin: 50px auto;
+   
+ }
+ .whowr ul li img ,.whowr ul li p{
+  vertical-align: middle;
+  display: inline-block;
+ }
+
+.container{
+  width:80%;
+  margin: auto;
+}
+ .imgw {
+   width: 50%;
+   display: inline-block;
+   vertical-align: top;
+   
+ }
+
+ .imgw img {
+   width: 90%;
+   height: 500px;
+   margin: auto;
+   border-radius: 10px;
+ }
+
+ .txt {
+   width: 49%;
+   display: inline-block;
+   vertical-align: top;
+ }
+
+ .txt h3 {
+   font-size: 40px;
+ }
+ .sec3 img{
+display: inline-block;
+width: 40px;
+vertical-align: top;
+float: left;
+ }
+
+ .location
+ {  
+ }
+.imge {
+width: 49%;
+   display: inline-block;
+ }
+.imge img{
+ width: 100%;
+   border-radius: 10px;
+   vertical-align: middle;
+}
+.txt{
+width: 48%;
+   display: inline-block;
+   vertical-align: middle;
+ }
+
+
+ .our
+{
+text-align: center;
+
+
+ 
+}
+.sup{
+ width: 33.3%;
+ float: left;
+ 
+}
+.sup .inner{
+  padding-inline: 10px;
+}
+.sup img{
+  width:100%;
+  height: 500px;
+ 
+}
+.clear-fix{
+  clear: both;
+}
+.location2
+ {
+
+ }
+
+.imgq {
+width:50%;
+  display: inline-block;
+     vertical-align: middle;
+
+   
+ }
+.imgq img{
+  
+   width: 100%;
+      
+
+   
+}
+.txt2{
+width: 49%;
+   display: inline-block; 
+   vertical-align: middle;
+   
+ }
+ .txt2 ul li img ,.txt2 ul li p
+ {
+vertical-align: middle;
+display: inline-block;
+
+ }
